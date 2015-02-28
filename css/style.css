@@ -19,7 +19,7 @@ h3#address 	{display: inline;
 
 h3#email	{display:inline;
 			position: absolute;
-			right: 70%;
+			left: 70%;
 			}
 
 #div1 p {font-size:18px;
